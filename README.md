@@ -9,7 +9,7 @@
 ## Beschreibung
 
 Das Spiel Vier Gewinnt in der Konsole<br>
-Player1: X | Payer2: O<br>
+Player1: rot | Payer2: blau<br>
 
 ## Header Datein
 
