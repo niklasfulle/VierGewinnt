@@ -14,8 +14,6 @@ Player1: rot | Payer2: blau<br>
 ## Header Datein
 
 1. stdio.h
-2. stdlib.h
-3. string.h
 
 ## Build
 
