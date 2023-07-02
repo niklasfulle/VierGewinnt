@@ -1,26 +1,26 @@
 # Vier Gewinnt
 
-## Übersicht
+## Overview
 
--   [Beschreibung](#beschreibung)
--   [Header Datein](#header-datein)
+-   [Description](#description)
+-   [Header Files](#header-files)
 -   [Build](#build)
 
-## Beschreibung
+## Description
 
-Das Spiel Vier Gewinnt in der Konsole<br>
-Player1: rot | Payer2: blau<br>
+The game Match Four on console to learn some C<br>
+Player1: red | Payer2: blue<br>
 
-## Header Datein
+## Header Files
 
 1. stdio.h
 
 ## Build
 
-1. Clone das Repository
-2. Öffne die Konsole im Ordner VierGewinnt
-3. Führe den Befehl aus:
+1. Clone the repository
+2. Open the console in the folder VierGewinnt
+3. Run the command:
     ```bash
     gcc main.c -o VierGewinnt && VierGewinnt
     ```
-4. Fertig
+4. Done
